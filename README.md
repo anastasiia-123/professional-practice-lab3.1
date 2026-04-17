@@ -41,6 +41,6 @@
 Створіть файл `.env` у кореневій папці та додайте наступні параметри:
 ```env
 PORT=3000
-DATABASE_URL=postgres://postgres:ВСТАВТЕ_ВАШ_ПАРОЛЬ@localhost:5432/blog_db
+DATABASE_URL=postgres://postgres:1234@localhost:5432/blog_db
 JWT_ACCESS_SECRET=your_super_secret_access_key
 JWT_REFRESH_SECRET=your_super_secret_refresh_key
